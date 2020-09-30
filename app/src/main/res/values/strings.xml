@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="welcome_test">Welcome to TopQuiz. Enter your name,please</string>
+    <string name="saisie_nom"> What \'s your name? </string>
+    <string name="play_text"> Let\'s play </string>
+    <string name="correct">correct response</string>
+    <string name="uncorrect"> Uncorrect response</string>
+    <string name="welcomeBack"> welcome back, </string>
+    <string name="scoreText"> Will you do better? your last score was </string>
+
+</resources>
